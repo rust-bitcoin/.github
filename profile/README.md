@@ -71,6 +71,7 @@ bitcoind-json-rpc-regtest | [bitcoind-json-rpc-regtest](https://crates.io/crates
 bitcoind-json-rpc-types | [bitcoind-json-rpc-types](https://crates.io/crates/bitcoind-json-rpc-types) | [rust-bitcoind-json-rpc](https://github.com/rust-bitcoin/rust-bitcoind-json-rpc)
 bip39 | [bip39](https://crates.io/crates/bip39) | [rust-bip39](https://github.com/rust-bitcoin/rust-bip39)
 bip47 | [bip47](https://crates.io/crates/bip47) | [rust-bip47](https://github.com/rust-bitcoin/rust-bip47)
+bip322 | [bip322](https://crates.io/crates/bip322) | [bip322](https://github.com/rust-bitcoin/bip322)
 murmel | [murmel](https://crates.io/crates/murmel) | [murmel](https://github.com/rust-bitcoin/murmel)
 hammersbald | [hammersbald](https://crates.io/crates/hammersbald) | [hammersbald](https://github.com/rust-bitcoin/hammersbald)
 bitcoin-bech32 | [bitcoin-bech32](https://crates.io/crates/bitcoin-bech32) | [rust-bech32-bitcoin](https://github.com/rust-bitcoin/rust-bech32-bitcoin)
