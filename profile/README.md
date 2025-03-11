@@ -82,8 +82,8 @@ Name | Repository | Description
 ---|---|---
 maintainer-tools | [rust-bitcoin-maintainer-tools](https://github.com/rust-bitcoin/rust-bitcoin-maintainer-tools) | Scripts, test vectors, and other things used by or across multiple repositories in the `rust-bitcoin` ecosystem.
 website | [rust-bitcoin.github.io](https://github.com/rust-bitcoin/rust-bitcoin.github.io) | Source for the organization website https://rust-bitcoin.org
-workshop | [workshop](https://github.com/rust-bitcoin/) | Conference presentation material
-.github | [.github](https://github.com/rust-bitcoin/) | Hosts this readme file
+workshop | [workshop](https://github.com/rust-bitcoin/workshop) | Conference presentation material
+.github | [.github](https://github.com/rust-bitcoin/.github) | Hosts this readme file
 
 ## Archived crates
 
