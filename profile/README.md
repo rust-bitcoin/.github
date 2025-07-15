@@ -73,7 +73,7 @@ murmel | [murmel](https://crates.io/crates/murmel) | [murmel](https://github.com
 hammersbald | [hammersbald](https://crates.io/crates/hammersbald) | [hammersbald](https://github.com/rust-bitcoin/hammersbald)
 bitcoin-bech32 | [bitcoin-bech32](https://crates.io/crates/bitcoin-bech32) | [rust-bech32-bitcoin](https://github.com/rust-bitcoin/rust-bech32-bitcoin)
 corepc | [corepc](https://crates.io/crates/corepc-node) | [corepc](https://github.com/rust-bitcoin/corepc)
-bitcoin-payment-instructions | [bitcoin-payment-instructions](https://crates.io/crates/bitcoin-payment-instructions) | [bitcoin-payment-instructions](github.com/rust-bitcoin/bitcoin-payment-instructions)
+bitcoin-payment-instructions | [bitcoin-payment-instructions](https://crates.io/crates/bitcoin-payment-instructions) | [bitcoin-payment-instructions](https://github.com/rust-bitcoin/bitcoin-payment-instructions)
 
 ## Non-crate repositories
 
