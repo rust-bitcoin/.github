@@ -23,6 +23,7 @@ base58 | [base58ck](https://crates.io/crates/base58ck) | [rust-bitcoin](https://
 bitcoin | [bitcoin](https://crates.io/crates/bitcoin) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 bitcoinconsensus | [bitcoinconsensus](https://crates.io/crates/bitcoinconsensus) | [rust-bitcoinconsensus](https://github.com/rust-bitcoin/rust-bitcoinconsensus)
 bech32 | [bech32](https://crates.io/crates/bech32) | [rust-bech32](https://github.com/rust-bitcoin/rust-bech32)
+chacha20_poly1305 | [chacha20-poly1305](https://crates.io/crates/chacha20-poly1305) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 hashes | [bitcoin_hashes](https://crates.io/crates/bitcoin_hashes) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 hex | [hex-conservative](https://crates.io/crates/hex-conservative) | [hex-conservative](https://github.com/rust-bitcoin/hex-conservative)
 internals | [bitcoin-internals](https://crates.io/crates/bitcoin-internals) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
