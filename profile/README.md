@@ -30,7 +30,7 @@ internals | [bitcoin-internals](https://crates.io/crates/bitcoin-internals) | [r
 io | [bitcoin-io](https://crates.io/crates/bitcoin-io) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 ordered | [ordered](https://crates.io/crates/ordered) | [rust-ordered](https://github.com/rust-bitcoin/rust-ordered)
 primitives | [primitives](https://crates.io/crates/bitcoin-primitives) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-secp256k1 | [secp256k1](https://crates.io/crates/secp256k1) | [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1)
+secp256k1 | [secp256k1](https://crates.io/crates/secp256k1) | [rust-secp256k1](https://git.rust-bitcoin.org/rust-bitcoin/rust-secp256k1)
 units | [bitcoin-units](https://crates.io/crates/bitcoin-units) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 We aim to make usage of these crates secure, ergonomic, and intuitive. We try to enable users of
