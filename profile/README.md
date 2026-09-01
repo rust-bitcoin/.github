@@ -30,7 +30,7 @@ internals | [bitcoin-internals](https://crates.io/crates/bitcoin-internals) | [r
 io | [bitcoin-io](https://crates.io/crates/bitcoin-io) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 ordered | [ordered](https://crates.io/crates/ordered) | [rust-ordered](https://github.com/rust-bitcoin/rust-ordered)
 primitives | [primitives](https://crates.io/crates/bitcoin-primitives) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-secp256k1 | [secp256k1](https://crates.io/crates/secp256k1) | [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1)
+secp256k1 | [secp256k1](https://crates.io/crates/secp256k1) | [rust-secp256k1](https://git.rust-bitcoin.org/rust-bitcoin/rust-secp256k1)
 units | [bitcoin-units](https://crates.io/crates/bitcoin-units) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 We aim to make usage of these crates secure, ergonomic, and intuitive. We try to enable users of
@@ -74,8 +74,8 @@ bip322 | [bip322](https://crates.io/crates/bip322) | [bip322](https://github.com
 murmel | [murmel](https://crates.io/crates/murmel) | [murmel](https://github.com/rust-bitcoin/murmel)
 hammersbald | [hammersbald](https://crates.io/crates/hammersbald) | [hammersbald](https://github.com/rust-bitcoin/hammersbald)
 bitcoin-bech32 | [bitcoin-bech32](https://crates.io/crates/bitcoin-bech32) | [rust-bech32-bitcoin](https://github.com/rust-bitcoin/rust-bech32-bitcoin)
-corepc | [corepc](https://crates.io/crates/corepc-node) | [corepc](https://github.com/rust-bitcoin/corepc)
-bitcoin-payment-instructions | [bitcoin-payment-instructions](https://crates.io/crates/bitcoin-payment-instructions) | [bitcoin-payment-instructions](https://github.com/rust-bitcoin/bitcoin-payment-instructions)
+corepc | [corepc](https://crates.io/crates/corepc-node) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+bitcoin-payment-instructions | [bitcoin-payment-instructions](https://crates.io/crates/bitcoin-payment-instructions) | [bitcoin-payment-instructions](https://git.rust-bitcoin.org/rust-bitcoin/bitcoin-payment-instructions)
 
 ## Non-crate repositories
 
@@ -83,7 +83,7 @@ Repositories that are not crates (libraries).
 
 Name | Repository | Description
 ---|---|---
-maintainer-tools | [rust-bitcoin-maintainer-tools](https://github.com/rust-bitcoin/rust-bitcoin-maintainer-tools) | Scripts, test vectors, and other things used by or across multiple repositories in the `rust-bitcoin` ecosystem.
+maintainer-tools | [rust-bitcoin-maintainer-tools](https://git.rust-bitcoin.org/rust-bitcoin/rust-bitcoin-maintainer-tools) | Scripts, test vectors, and other things used by or across multiple repositories in the `rust-bitcoin` ecosystem.
 website | [rust-bitcoin.github.io](https://github.com/rust-bitcoin/rust-bitcoin.github.io) | Source for the organization website https://rust-bitcoin.org
 workshop | [workshop](https://github.com/rust-bitcoin/) | Conference presentation material
 .github | [.github](https://github.com/rust-bitcoin/) | Hosts this readme file
