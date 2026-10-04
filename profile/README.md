@@ -66,15 +66,17 @@ versions rather than blindly upgrading.
 Name | Crate | Repository
 ---|---|---
 miniscript | [miniscript](https://crates.io/crates/miniscript) | [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript)
-bitcoind | [bitcoind](https://crates.io/crates/bitcoind) | [bitcoind](https://github.com/rust-bitcoin/bitcoind)
-bitcoincore-rpc | [bitcoincore-rpc](https://crates.io/crates/bitcoincore-rpc) | [rust-bitcoincore-rpc](https://github.com/rust-bitcoin/rust-bitcoincore-rpc)
 bip39 | [bip39](https://crates.io/crates/bip39) | [rust-bip39](https://github.com/rust-bitcoin/rust-bip39)
 bip47 | [bip47](https://crates.io/crates/bip47) | [rust-bip47](https://github.com/rust-bitcoin/rust-bip47)
 bip322 | [bip322](https://crates.io/crates/bip322) | [bip322](https://github.com/rust-bitcoin/bip322)
 murmel | [murmel](https://crates.io/crates/murmel) | [murmel](https://github.com/rust-bitcoin/murmel)
 hammersbald | [hammersbald](https://crates.io/crates/hammersbald) | [hammersbald](https://github.com/rust-bitcoin/hammersbald)
 bitcoin-bech32 | [bitcoin-bech32](https://crates.io/crates/bitcoin-bech32) | [rust-bech32-bitcoin](https://github.com/rust-bitcoin/rust-bech32-bitcoin)
-corepc | [corepc](https://crates.io/crates/corepc-node) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+bitreq | [bitreq](https://crates.io/crates/bitreq) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+corepc-client | [corepc-client](https://crates.io/crates/corepc-client) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+corepc-types | [corepc-types](https://crates.io/crates/corepc-types) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+bitcoind | [bitcoind](https://crates.io/crates/bitcoind) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
+electrsd | [electrsdd](https://crates.io/crates/electrsd) | [corepc](https://git.rust-bitcoin.org/rust-bitcoin/corepc)
 bitcoin-payment-instructions | [bitcoin-payment-instructions](https://crates.io/crates/bitcoin-payment-instructions) | [bitcoin-payment-instructions](https://git.rust-bitcoin.org/rust-bitcoin/bitcoin-payment-instructions)
 
 ## Non-crate repositories
@@ -99,9 +101,11 @@ rust-bitcoin-chain | Unmaintained [bitcoin-chain](https://github.com/rust-bitcoi
 bitcoin_hashes | Moved to [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/tree/master/hashes)
 rust-lightning-invoice | Moved to [rust-lightning](https://github.com/lightningdevkit/rust-lightning/tree/main/lightning-invoice)
 www.rust-bitcoin.org | Moved to [rust-bitcoin.github.io](https://github.com/rust-bitcoin/rust-bitcoin.github.io)
+bitcoincore-rpc | [bitcoincore-rpc](https://crates.io/crates/bitcoincore-rpc) | [rust-bitcoincore-rpc](https://github.com/rust-bitcoin/rust-bitcoincore-rpc)
 bitcoind-json-rpc-client | Unmaintained [bitcoind-json-rpc-client](https://crates.io/crates/bitcoind-json-rpc-client)
 bitcoind-json-rpc-regtest | Unmaintained [bitcoind-json-rpc-regtest](https://crates.io/crates/bitcoind-json-rpc-regtest)
 bitcoind-json-rpc-types | Unmaintained [bitcoind-json-rpc-types](https://crates.io/crates/bitcoind-json-rpc-types)
+corepc-node | Renamed back to [bitcoind](https://crates.io/crates/bitcoind)
 
 ## TODO
 
