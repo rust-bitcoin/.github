@@ -65,7 +65,7 @@ versions rather than blindly upgrading.
 
 Name | Crate | Repository
 ---|---|---
-miniscript | [miniscript](https://crates.io/crates/miniscript) | [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript)
+miniscript | [miniscript](https://crates.io/crates/miniscript) | [rust-miniscript](https://git.rust-bitcoin.org/rust-bitcoin/rust-miniscript)
 bip39 | [bip39](https://crates.io/crates/bip39) | [rust-bip39](https://github.com/rust-bitcoin/rust-bip39)
 bip47 | [bip47](https://crates.io/crates/bip47) | [rust-bip47](https://github.com/rust-bitcoin/rust-bip47)
 bip322 | [bip322](https://crates.io/crates/bip322) | [bip322](https://github.com/rust-bitcoin/bip322)
